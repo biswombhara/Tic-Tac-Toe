@@ -17,12 +17,11 @@ body{
 .container{
     display: flex;
     justify-content: center;
-    margin-left: 46px;
 }
 .game{
     display: flex;
     flex-wrap: wrap;
-    width: 385px;
+    width: 336px;
 }
 #reset{
   padding: 0.5rem 1.5rem;
